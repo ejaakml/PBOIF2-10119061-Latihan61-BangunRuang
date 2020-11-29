@@ -8,6 +8,10 @@ package pbif2.pkg10119061.latihan61.bangunruang;
 /**
  *
  * @author Rheiza
+ * NAMA : Rheiza Akmal R
+ * KELAS : IF 2
+ * NIM : 10119061
+ * DESKRIPSI : Bangun Ruang
  */
 public class PBIF210119061Latihan61BangunRuang {
 
